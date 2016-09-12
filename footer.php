@@ -1,23 +1,27 @@
 <footer class="page-footer teal">
     <div class="container">
       <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">Point Jardin</h5>
-          <p class="grey-text text-lighten-4">mini descriptif</p>
-
-
+        <div class="contact col l6 s12">
+          <h5 class="white-text">Nous contacter</h5>
+          <p class="grey-text text-lighten-4">par téléphone <br /> 
+          <span style="font-size: 20px;">04 86 13 91 10</span> <br /> 
+          Notre service client est là pour vous répondre <br /> du Lundi au Samedi de 9h à 12h30 et de 14h à 19h.</p>
         </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Settings</h5>
+
+        <div class="suivre col l3 s12">
+         <div id="icons">
+          <h5 class="white-text">Nous suivre</h5>
           <ul>
-            <li><a class="white-text" href="#!">Link 1</a></li>
+            <li><a class="white-text" href= "https://fr-fr.facebook.com/PointJardin/"><img src="http://i.imgur.com/iueNI4c.png">Facebook</a></li>
             <li><a class="white-text" href="#!">Link 2</a></li>
             <li><a class="white-text" href="#!">Link 3</a></li>
             <li><a class="white-text" href="#!">Link 4</a></li>
           </ul>
+          </div>
         </div>
-        <div class="col l3 s12">
-          <h5 class="white-text">Connect</h5>
+
+        <div class="info col l3 s12">
+          <h5 class="white-text">Informations livraison</h5>
           <ul>
             <li><a class="white-text" href="#!">Link 1</a></li>
             <li><a class="white-text" href="#!">Link 2</a></li>
@@ -32,7 +36,7 @@
 	
 	<div class="footer-copyright">
       <div class="container">
-      2015 Free Style All Rights Reserved | Design by W3layouts 
+      &copy; 2016 All Rights Reserved | Mentions légales
       </div>
     </div>
   </footer>
