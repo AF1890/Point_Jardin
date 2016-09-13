@@ -1,4 +1,33 @@
 footer.page-footer {
-  margin: 0
+  margin-top: 20px;
+  padding-top: 20px;
+  background-color: green;
   
 }
+
+footer.page-footer .footer-copyright {
+  font-weight: 300;
+  background-color: darkgreen; 
+ }
+
+footer.page-footer .footer-herb{
+	width: 100%;
+	height: 26px;
+	background-repeat: repeat-x;
+    background-size: 0 auto;
+}
+
+
+}
+.classe img {
+    padding:20px 0px 0px 0px;
+    float: right;
+    
+}
+
+.classe img {
+    float: right;
+    margin-right: 5px;
+    width: 35px;
+}
+
