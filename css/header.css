@@ -1,0 +1,134 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+ header
+ .collapsible-header {
+  display: block;
+  cursor: pointer;
+  min-height: 3rem;
+  line-height: 3rem;
+  padding: 0 1rem;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+}
+
+.inputfield2 {
+    
+    max-height: 30px; 
+    background-color: white;
+    hover;
+}
+
+a:hover {
+    color: white solid ;
+}
+
+.collapsible-header i {
+  width: 2rem;
+  font-size: 4rem;
+  line-height: 3rem;
+  display: block;
+  float: center;
+  text-align: center;
+  margin-right: 1rem;
+} 
+
+a {
+    color: lightgreen;
+}
+
+.taille-logo {
+ min-width: 50px;   
+    
+}
+form {
+    margin-left: 180px;
+    width: 300px;
+    background-color: #ffff ;
+}
+
+
+
+.second_nav {
+	width: 100%;
+	position: relative;
+    padding-left: 5%;
+    
+}
+
+/* Header part 1 */
+.testcls {
+            height: 50px;
+            color: white;
+            text-align: center center;
+        }
+/* Header part 2 */
+.testcls2 {
+            height: 150px;
+            color: white;
+            text-align: center center;
+        }
+ 
+nav ul a,
+nav .brand-logo {
+  color: #7BC142;
+  background-color: darkgreen solid;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 800px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0
+  
+}
+td, th {
+  padding: 15px 5px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 2px;
+}
