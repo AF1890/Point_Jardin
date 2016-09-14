@@ -1,4 +1,8 @@
 <footer class="page-footer">
+    
+    <div class="footer-herb">
+    </div>
+
     <div class="container">
       <div class="row">
         <div class="contact col l3 s12">
@@ -29,6 +33,18 @@
 
         <div class="suivre col l3 s12">
           <h5 class="white-text">Nous suivre</h5>
+            <div class="row">
+              <form class="col s12">
+                <li><a class="white-text">Inscription newsletter</a></li>
+                <div class="row">
+                  <div class="input-field col s12">
+                    <input id="email" type="email" class="validate">
+                    <label for="email" data-error="wrong" data-success="right">Email</label>
+                  </div>
+                </div>
+              </form>
+            </div>
+
           <ul>
             <li><a class="white-text" href="#!">Link 1</a></li>
             <li><a class="white-text" href="#!">Link 2</a></li>
@@ -39,25 +55,20 @@
         <div class="contact col l3 s12">
           <h5 class="white-text">Nous contacter</h5>
           <p class="grey-text text-lighten-4">par téléphone <br /> 
-          <span style="font-size: 20px;">04 86 13 91 10</span> <br /> 
+          <span style="font-size: 20px; font-weight: bold";>04 86 13 91 10</span> <br /> 
           Notre service client est là pour vous répondre <br /> du Lundi au Samedi de 9h à 12h30 et de 14h à 19h.</p>
         </div>
 
       </div>
     </div>
-    
-	 <div class="footer-herb">
-          <div class="image col s12">
-            <img src="sprite.png">
-          </div>
-    </div>
 
 	<div class="footer-copyright">
       <div class="container">
-      &copy; 2016 All Rights Reserved Point Jardin | Design by WCS | Mentions légales
+      &copy; 2016 All Rights Reserved Point Jardin | Design by WCS
       </div>
     </div>
   </footer>
+
 
 
   <!--  Scripts-->
