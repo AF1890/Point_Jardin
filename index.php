@@ -17,6 +17,8 @@
 
 <?php include('header.php'); ?>
 
+<?php include('body1.php'); ?>
 
+<?php include('body2.php'); ?>
 
 <?php include('footer.php'); ?>
