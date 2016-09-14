@@ -36,3 +36,12 @@ footer.page-footer .footer-copyright {
     width: 35px;
 }
 */
+
+@media only screen and (max-width : 600px) {
+  .facebook {
+    text-align: center;
+  }
+  .facebook img{
+    width: 800px;
+  }
+}
