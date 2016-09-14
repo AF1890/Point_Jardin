@@ -1,5 +1,47 @@
+footer.page-footer .footer-herb{
+	width: 100%;
+	height: 26px;
+	background-image: url("sprite.png");
+	background-repeat: repeat-x;
+	margin-bottom: 15px;
+}
+
 footer.page-footer {
-  margin: 0
-  color : black;
-  
+  margin-top: 0px;
+  padding-top: 0px;
+  background-color: green;
+}
+
+
+footer.page-footer .footer-copyright {
+  font-weight: 300;
+  background-color: darkgreen; 
+ }
+
+/* label color */
+   .input-field label {
+     color: #FFFFFF;
+   }
+
+/*
+.classe img {
+    padding:20px 0px 0px 0px;
+    float: right;
+    
+}
+
+.classe img {
+    float: right;
+    margin-right: 5px;
+    width: 35px;
+}
+*/
+
+@media only screen and (max-width : 600px) {
+  .facebook {
+    text-align: center;
+  }
+  .facebook img{
+    width: 800px;
+  }
 }
