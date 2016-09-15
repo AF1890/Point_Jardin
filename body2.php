@@ -10,7 +10,7 @@
             <h5>Nos services</h5>
             <div class ="responsive-table">
                 <tr>
-                    <td><img src="https://s17.postimg.org/i1o3ef267/unnamed.png" alt="icone1" height=55px width="55px" />"</td>
+                    <td><img src="https://s17.postimg.org/i1o3ef267/unnamed.png" alt="icone1"  width="55px" /></td>
                     <td>Achetez la quantité dont vous avez besoin</td>
                 </tr>
                 <tr>
