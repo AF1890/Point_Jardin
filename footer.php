@@ -46,9 +46,7 @@
             </div>
 
           <ul class="facebook">
-            <li><a class="white-text" href="#!">Link 1</a></li>
-            <li><a class="white-text" href="#!">Link 2</a></li>
-            <a target="_blank" title="find us on Facebook" href="http://www.facebook.com/PLACEHOLDER"><img alt="follow me on facebook" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a>
+            <a target="_blank" title="find us on Facebook" href="http://www.facebook.com/PLACEHOLDER"><img alt="follow me on facebook" height=45px width="45px" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a>
           </ul>
         </div>
 
