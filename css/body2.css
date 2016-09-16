@@ -9,27 +9,19 @@
  
 }
 
+/*VIDEO*/
+
 #video {
      align-items: left;
      padding-top:30px;
      padding-right:80px;
 }
 
+/*BIENVENUE*/
 #bienvenue {
   padding-right:20px;
   padding-left:30px;
 
-}
-
-
-
-#form {
-    float: right;
-    border:2px solid grey;
-    padding-top:30px;
-    padding-bottom: 30px;
-  
-   
 }
 
 .responsive-table{
@@ -37,16 +29,36 @@
 }
 
 
-}
-/*
-img {
-    text-align: left;
-    font-size: 10px;
-    display:inline-block;
-*/
-
 td{
     text-align: justify;
+}
+
+
+/*FORMULAIRE*/
+#form {
+    float: right;
+    border:2px solid grey;
+    padding-top:30px;
+    padding-bottom: 30px;  
+}
+
+.larger-block {
+    min-width: 360px;
+}
+
+/*
+@media only screen and (max-width : 992px) {
+  #v {
+    position: absolute;
+
+  }
+*/
+
+
+@media only screen and (max-width : 600px) {
+  #video #bienvenue #form{
+    text-align:center;
+  }
 }
 
 /*
@@ -65,9 +77,9 @@ tr{
 
 /*;
 img.displayed{
-	width: 30%;
+    width: 30%;
     display: block;
-	margin-left: auto;
+    margin-left: auto;
     margin-right: auto
 }
 
