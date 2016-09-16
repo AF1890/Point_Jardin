@@ -1,3 +1,5 @@
+<!-- FOOTER --> 
+
 <footer class="page-footer">
     
     <div class="footer-herb">
@@ -15,7 +17,6 @@
             <li><a class="white-text" href="#!">Protection des données</a></li>
           </ul>
         </div>       
-
         <div class="info col l3 s12">
           <h5 class="white-text">Pour les particuliers</h5>
           <ul>
@@ -46,7 +47,7 @@
             </div>
 
           <ul class="facebook">
-            <a target="_blank" title="find us on Facebook" href="http://www.facebook.com/PLACEHOLDER"><img alt="follow me on facebook" height=45px width="45px" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a>
+            <a target="_blank" title="find us on Facebook" href="https://fr-fr.facebook.com/PointJardin/"><img alt="follow me on facebook" width="50px" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a>
           </ul>
         </div>
 
