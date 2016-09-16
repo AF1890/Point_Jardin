@@ -6,17 +6,6 @@
  * Made By MaterializeCSS.com
  */
 
- header
- .collapsible-header {
-  display: block;
-  cursor: pointer;
-  min-height: 3rem;
-  line-height: 3rem;
-  padding: 0 1rem;
-  background-color: #fff;
-  border-bottom: 1px solid #ddd;
-}
-
 .collapsible-header i {
   width: 2rem;
   font-size: 4rem;
@@ -31,7 +20,13 @@
 	 
  }
 
-
+.footer-herb{
+  width: 100%;
+  height: 26px;
+  background-image: url("sprite.png");
+  background-repeat: repeat-x;
+  margin-bottom: 15px;
+}
  
 .second_nav {
 	width: 100%;

@@ -8,13 +8,8 @@
 
  header
  .collapsible-header {
-  display: block;
-  cursor: pointer;
-  min-height: 3rem;
-  line-height: 3rem;
-  padding: 0 1rem;
-  background-color: #fff;
-  border-bottom: 1px solid #ddd;
+
+  border-bottom: none;
 }
 
 .inputfield2 {
@@ -46,13 +41,6 @@ a {
  min-width: 50px;   
     
 }
-form {
-    margin-left: 180px;
-    width: 300px;
-    background-color: #ffff ;
-}
-
-
 
 .second_nav {
 	width: 100%;
