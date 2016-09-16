@@ -1,10 +1,4 @@
-footer.page-footer .footer-herb{
-	width: 100%;
-	height: 26px;
-	background-image: url("sprite.png");
-	background-repeat: repeat-x;
-	margin-bottom: 15px;
-}
+/*FOOTER*/
 
 footer.page-footer {
   margin-top: 0px;
@@ -18,24 +12,22 @@ footer.page-footer .footer-copyright {
   background-color: darkgreen; 
  }
 
+ .row .col.s12 {
+
+ }
+
 /* label color */
-   .input-field label {
+
+.input-field label {
      color: #FFFFFF;
-   }
 
-/*
-.classe img {
-    padding:20px 0px 0px 0px;
-    float: right;
-    
 }
 
-.classe img {
-    float: right;
-    margin-right: 5px;
-    width: 35px;
+
+input[type="email"]{
+  width:70%;
 }
-*/
+
 
 @media only screen and (max-width : 600px) {
   .facebook {
