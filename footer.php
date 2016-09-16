@@ -46,17 +46,17 @@
               </form>
             </div>
 
-          <ul class="facebook">
-            <a target="_blank" title="find us on Facebook" href="https://fr-fr.facebook.com/PointJardin/"><img alt="follow me on facebook" width="50px" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a>
-          </ul>
-        </div>
+              <ul class="facebook">
+                <a target="_blank" title="find us on Facebook" href="https://fr-fr.facebook.com/PointJardin/"><img alt="follow me on facebook" width="50px" src="//login.create.net/images/icons/user/facebook_30x30.png" border=0></a>
+              </ul>
+            </div>
 
 
         <div class="contact col l3 s12">
           <h5 class="white-text">Nous contacter</h5>
-          <p class="grey-text text-lighten-4">par téléphone <br /> 
-          <span style="font-size: 20px; font-weight: bold";>04 86 13 91 10</span> <br /> 
-          Notre service client est là pour vous répondre <br /> du Lundi au Samedi de 9h à 12h30 et de 14h à 19h.</p>
+            <p class="grey-text text-lighten-4">par téléphone <br /> 
+            <span style="font-size: 20px; font-weight: bold";>04 86 13 91 10</span> <br /> 
+            Notre service client est là pour vous répondre <br /> du Lundi au Samedi de 9h à 12h30 et de 14h à 19h.</p>
         </div>
 
       </div>
